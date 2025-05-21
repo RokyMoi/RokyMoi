@@ -26,8 +26,8 @@
   - Multiplayer concepts with Unreal Engine Blueprints and C++  
 
 - 📫 How to reach me:
-  - Email: dusko@email.com
-  - LinkedIn: [linkedin.com/in/dusko-savic](https://linkedin.com/in/dusko-savic)
+  - Email: duskosavicbn3@gmail.com
+
 
 ---
 
@@ -78,18 +78,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dusko-savic&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dusko-savic&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RokyMoic&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RokyMoi&layout=compact&theme=radical" alt="Top Languages" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dusko-savic&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RokyMoi&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/dusko-savic)
-- 🌐 Personal website: _Coming Soon_
 - 📬 Email: duskosavicbn3@email.com
 
 ---
