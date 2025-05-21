@@ -60,7 +60,7 @@
 > 🛠 Built with: Angular · ASP.NET Core · SignalR · SQL Server  
 > 🌐 Features: real-time scheduling · interactive dashboard · user matching  
 > 🚧 Status: Work in Progress  
-> 🔗 [Repo Link](https://github.com/RokyMoi/EducConnect)| 📷 [Design Preview](#)
+> 🔗 [Repo Link](https://github.com/RokyMoi/EducConnect)| 📷
 
 #### 📊 Habit Tracker
 > Track, manage, and visualize your daily habits and long-term goals with charts and smart notifications.  
