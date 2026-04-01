@@ -38,58 +38,42 @@
   <img src="./header_about.png" width="80%" />
 </p>
 
-<table align="center" width="100%">
-  <tr>
     <td width="55%" valign="top">
-
-### 👨‍💻 Who Am I?
-
-| | |
-|---|---|
-| 🧑 **Name** | Dusko Savic |
-| 📍 **Location** | 🇧🇦 Bosnia & Herzegovina |
-| 💼 **Role** | Full-Stack Developer |
-
----
-
-### 🚀 What I Work With
-
-| Category | Technologies |
-|---|---|
-| **Languages** | `C#` `TypeScript` `Dart` `C++` `SQL` `HTML/CSS` |
-| **Frameworks** | `.NET Core` `Angular` `Flutter` `Unreal Engine 5` `Entity Framework` |
-
----
-
-### 🔥 Currently Building
-
-| Project | Description |
-|---|---|
-| 📚 **LibroSphere** | Clean Architecture Library Platform |
-| 🎓 **EduConnect** | Real-time Education Platform |
-| 🎮 **UE5 Game** | Social Deduction Multiplayer Game |
-
----
-
-### 🌱 Currently Learning
-
-| | |
-|---|---|
-| 📖 | Clean Architecture Patterns |
-| ⚡ | RxJS & Angular Material |
-| 🌐 | SignalR Real-time Communication |
-| 🎲 | UE5 Multiplayer Networking |
-
----
-
-### 🎯 Quick Facts
-
-| 🎓 **Education** | Bachelor's in Software Engineering — University "Džemal Bijedić" of Mostar, FIT |
-|---|---|
-| 💼 **Passion** | Clean Architecture, Cross-Platform Apps, Game Dev |
-| 📫 **Contact** | duskosavicbn3@gmail.com |
-| ⚡ **Fun Fact** | *I debug code faster than I find my keys!* 🔑 |
-
+      <h3>👨‍💻 Who Am I?</h3>
+      <table>
+        <tr><td>🧑 <b>Name</b></td><td>Dusko Savic</td></tr>
+        <tr><td>📍 <b>Location</b></td><td>🇧🇦 Bosnia &amp; Herzegovina</td></tr>
+        <tr><td>💼 <b>Role</b></td><td>Full-Stack Developer</td></tr>
+      </table>
+      <br>
+      <h3>🚀 What I Work With</h3>
+      <table>
+        <tr><td><b>Languages</b></td><td><code>C#</code> <code>TypeScript</code> <code>Dart</code> <code>C++</code> <code>SQL</code> <code>HTML/CSS</code></td></tr>
+        <tr><td><b>Frameworks</b></td><td><code>.NET Core</code> <code>Angular</code> <code>Flutter</code> <code>Unreal Engine 5</code> <code>Entity Framework</code></td></tr>
+      </table>
+      <br>
+      <h3>🔥 Currently Building</h3>
+      <table>
+        <tr><td>📚 <b>LibroSphere</b></td><td>Clean Architecture Library Platform</td></tr>
+        <tr><td>🎓 <b>EduConnect</b></td><td>Real-time Education Platform</td></tr>
+        <tr><td>🎮 <b>UE5 Game</b></td><td>Social Deduction Multiplayer Game</td></tr>
+      </table>
+      <br>
+      <h3>🌱 Currently Learning</h3>
+      <table>
+        <tr><td>📖</td><td>Clean Architecture Patterns</td></tr>
+        <tr><td>⚡</td><td>RxJS &amp; Angular Material</td></tr>
+        <tr><td>🌐</td><td>SignalR Real-time Communication</td></tr>
+        <tr><td>🎲</td><td>UE5 Multiplayer Networking</td></tr>
+      </table>
+      <br>
+      <h3>🎯 Quick Facts</h3>
+      <table>
+        <tr><td>🎓 <b>Education</b></td><td>Bachelor's in Software Engineering — University "Džemal Bijedić" of Mostar, FIT</td></tr>
+        <tr><td>💼 <b>Passion</b></td><td>Clean Architecture, Cross-Platform Apps, Game Dev</td></tr>
+        <tr><td>📫 <b>Contact</b></td><td>duskosavicbn3@gmail.com</td></tr>
+        <tr><td>⚡ <b>Fun Fact</b></td><td><i>I debug code faster than I find my keys!</i> 🔑</td></tr>
+      </table>
     </td>
     <td width="45%" align="center" valign="top">
       <br>
@@ -382,7 +366,7 @@
   <a href="https://github.com/RokyMoi">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
   </a>
-  <a href="https://www.instagram.com/duskosavic">
+  <a href="https://www.instagram.com/duskosaviic">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
   </a>
   <a href="https://twitter.com/duskosavic">
