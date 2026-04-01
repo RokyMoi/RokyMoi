@@ -42,56 +42,53 @@
   <tr>
     <td width="55%" valign="top">
 
-```csharp
-🚀 NAMESPACE: DuskoSavic.Developer
-═══════════════════════════════════════════════════════════
+### 👨‍💻 Who Am I?
 
-namespace DuskoSavic
-{
-    public class FullStackDeveloper : IDeveloper
-    {
-        public string Name => "Dusko Savic";
-        public string Location => "🇧🇦 Bosnia & Herzegovina";
-        public string Title => "Full-Stack Developer";
-        
-        public Stack<string> Languages => new() 
-        { 
-            "C#", "TypeScript", "Dart", "C++", "SQL", "HTML/CSS" 
-        };
-        
-        public Stack<string> Frameworks => new() 
-        { 
-            ".NET Core", "Angular", "Flutter", 
-            "Unreal Engine 5", "Entity Framework" 
-        };
-        
-        public void CurrentlyBuilding()
-        {
-            Console.WriteLine("🔥 LibroSphere - Clean Architecture");
-            Console.WriteLine("📚 EduConnect - Real-time Education");
-            Console.WriteLine("🎮 UE5 Social Deduction Game");
-        }
-        
-        public void CurrentlyLearning()
-        {
-            Console.WriteLine("📖 Clean Architecture Patterns");
-            Console.WriteLine("⚡ RxJS & Angular Material");
-            Console.WriteLine("🌐 SignalR Real-time Comm");
-            Console.WriteLine("🎲 UE5 Multiplayer Networking");
-        }
-    }
-}
-```
+| | |
+|---|---|
+| 🧑 **Name** | Dusko Savic |
+| 📍 **Location** | 🇧🇦 Bosnia & Herzegovina |
+| 💼 **Role** | Full-Stack Developer |
+
+---
+
+### 🚀 What I Work With
+
+| Category | Technologies |
+|---|---|
+| **Languages** | `C#` `TypeScript` `Dart` `C++` `SQL` `HTML/CSS` |
+| **Frameworks** | `.NET Core` `Angular` `Flutter` `Unreal Engine 5` `Entity Framework` |
+
+---
+
+### 🔥 Currently Building
+
+| Project | Description |
+|---|---|
+| 📚 **LibroSphere** | Clean Architecture Library Platform |
+| 🎓 **EduConnect** | Real-time Education Platform |
+| 🎮 **UE5 Game** | Social Deduction Multiplayer Game |
+
+---
+
+### 🌱 Currently Learning
+
+| | |
+|---|---|
+| 📖 | Clean Architecture Patterns |
+| ⚡ | RxJS & Angular Material |
+| 🌐 | SignalR Real-time Communication |
+| 🎲 | UE5 Multiplayer Networking |
+
+---
 
 ### 🎯 Quick Facts
 
-| 🎓 Education | Bachelor's in Software Engineering — University "Džemal Bijedić" of Mostar, FIT |
-|-------------|----------------------------------------------------------------------------------|
-| 💼 Passion | Clean Architecture, Cross-Platform Apps, Game Dev |
-| 🔭 Building | **LibroSphere** · **EduConnect** · **UE5 Game** |
-| 🌱 Learning | **Clean Arch** · **RxJS** · **SignalR** · **UE5** |
-| 📫 Contact | **duskosavicbn3@gmail.com** |
-| ⚡ Fun Fact | *I debug code faster than I find my keys!* 🔑 |
+| 🎓 **Education** | Bachelor's in Software Engineering — University "Džemal Bijedić" of Mostar, FIT |
+|---|---|
+| 💼 **Passion** | Clean Architecture, Cross-Platform Apps, Game Dev |
+| 📫 **Contact** | duskosavicbn3@gmail.com |
+| ⚡ **Fun Fact** | *I debug code faster than I find my keys!* 🔑 |
 
     </td>
     <td width="45%" align="center" valign="top">
@@ -363,13 +360,13 @@ namespace DuskoSavic
   <a href="mailto:duskosavicbn3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
   </a>
-  <a href="https://linkedin.com/in/duskosavic">
+  <a href="https://www.linkedin.com/in/dusko-savic">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
   <a href="https://github.com/RokyMoi">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
   </a>
-  <a href="https://instagram.com/duskosavic">
+  <a href="https://www.instagram.com/duskosavic">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
   </a>
   <a href="https://twitter.com/duskosavic">
