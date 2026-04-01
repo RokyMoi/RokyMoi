@@ -93,12 +93,28 @@
     </td>
     <td width="45%" align="center" valign="top">
       <br>
-      <img src="./avatar.png" width="85%" style="border-radius: 50%; box-shadow: 0 0 50px #00d9ff;" />
+      <!-- Avatar -->
+      <img src="./avatar.png" width="82%" />
       <br><br>
-      <img src="./workspace.png" width="90%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,217,255,0.3);" />
+      <!-- Workspace / setup slika -->
+      <img src="./workspace.png" width="90%" />
       <br><br>
-      <!-- Animated Coding GIF -->
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" style="border-radius: 15px;" />
+      <!-- Coding GIF -->
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="75%" />
+      <br><br>
+      <!-- Matrix / hacking vibe GIF -->
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="75%" />
+      <br><br>
+      <!-- Tech / developer GIF -->
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="75%" />
+      <br><br>
+      <!-- GitHub stats mini card -->
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RokyMoi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=15&layout=compact" width="90%" />
+      <br><br>
+      <!-- Visitor badge extra -->
+      <img src="https://img.shields.io/badge/Open%20To%20Work-00D9FF?style=for-the-badge&logo=hand-pointing-right&logoColor=black" />
+      <br>
+      <img src="https://img.shields.io/badge/Bosnia%20%F0%9F%87%A7%F0%9F%87%A6-Developer-00D9FF?style=for-the-badge" />
     </td>
   </tr>
 </table>
