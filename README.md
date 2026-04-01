@@ -294,9 +294,7 @@
 <!-- ║                          📊 GITHUB STATS SECTION                               ║ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="./header_stats.png" width="80%" />
-</p>
+
 
 <!-- GitHub Stats Cards -->
 <p align="center">
