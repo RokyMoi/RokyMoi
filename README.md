@@ -38,70 +38,80 @@
   <img src="./header_about.png" width="80%" />
 </p>
 
-    <td width="55%" valign="top">
-      <h3>👨‍💻 Who Am I?</h3>
-      <table>
-        <tr><td>🧑 <b>Name</b></td><td>Dusko Savic</td></tr>
-        <tr><td>📍 <b>Location</b></td><td>🇧🇦 Bosnia &amp; Herzegovina</td></tr>
-        <tr><td>💼 <b>Role</b></td><td>Full-Stack Developer</td></tr>
-      </table>
-      <br>
-      <h3>🚀 What I Work With</h3>
-      <table>
-        <tr><td><b>Languages</b></td><td><code>C#</code> <code>TypeScript</code> <code>Dart</code> <code>C++</code> <code>SQL</code> <code>HTML/CSS</code></td></tr>
-        <tr><td><b>Frameworks</b></td><td><code>.NET Core</code> <code>Angular</code> <code>Flutter</code> <code>Unreal Engine 5</code> <code>Entity Framework</code></td></tr>
-      </table>
-      <br>
-      <h3>🔥 Currently Building</h3>
-      <table>
-        <tr><td>📚 <b>LibroSphere</b></td><td>Clean Architecture Library Platform</td></tr>
-        <tr><td>🎓 <b>EduConnect</b></td><td>Real-time Education Platform</td></tr>
-        <tr><td>🎮 <b>UE5 Game</b></td><td>Social Deduction Multiplayer Game</td></tr>
-      </table>
-      <br>
-      <h3>🌱 Currently Learning</h3>
-      <table>
-        <tr><td>📖</td><td>Clean Architecture Patterns</td></tr>
-        <tr><td>⚡</td><td>RxJS &amp; Angular Material</td></tr>
-        <tr><td>🌐</td><td>SignalR Real-time Communication</td></tr>
-        <tr><td>🎲</td><td>UE5 Multiplayer Networking</td></tr>
-      </table>
-      <br>
-      <h3>🎯 Quick Facts</h3>
-      <table>
-        <tr><td>🎓 <b>Education</b></td><td>Bachelor's in Software Engineering — University "Džemal Bijedić" of Mostar, FIT</td></tr>
-        <tr><td>💼 <b>Passion</b></td><td>Clean Architecture, Cross-Platform Apps, Game Dev</td></tr>
-        <tr><td>📫 <b>Contact</b></td><td>duskosavicbn3@gmail.com</td></tr>
-        <tr><td>⚡ <b>Fun Fact</b></td><td><i>I debug code faster than I find my keys!</i> 🔑</td></tr>
-      </table>
-    </td>
-    <td width="45%" align="center" valign="top">
-      <br>
-      <!-- Avatar -->
-      <img src="./avatar.png" width="82%" />
-      <br><br>
-      <!-- Workspace / setup slika -->
-      <img src="./workspace.png" width="90%" />
-      <br><br>
-      <!-- Coding GIF -->
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="75%" />
-      <br><br>
-      <!-- Matrix / hacking vibe GIF -->
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="75%" />
-      <br><br>
-      <!-- Tech / developer GIF -->
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="75%" />
-      <br><br>
-      <!-- GitHub stats mini card -->
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RokyMoi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=15&layout=compact" width="90%" />
-      <br><br>
-      <!-- Visitor badge extra -->
-      <img src="https://img.shields.io/badge/Open%20To%20Work-00D9FF?style=for-the-badge&logo=hand-pointing-right&logoColor=black" />
-      <br>
-      <img src="https://img.shields.io/badge/Bosnia%20%F0%9F%87%A7%F0%9F%87%A6-Developer-00D9FF?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
+<!-- Avatar + slike -->
+<p align="center">
+  <img src="./avatar.png" width="35%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./workspace.png" width="55%" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30%" />
+  &nbsp;
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30%" />
+  &nbsp;
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RokyMoi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=15&layout=compact" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20To%20Work-00D9FF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bosnia%20%F0%9F%87%A7%F0%9F%87%A6-Developer-00D9FF?style=for-the-badge" />
+</p>
+
+---
+
+### 👨‍💻 Who Am I?
+
+| | |
+|---|---|
+| 🧑 **Name** | Dusko Savic |
+| 📍 **Location** | 🇧🇦 Bosnia & Herzegovina |
+| 💼 **Role** | Full-Stack Developer |
+
+---
+
+### 🚀 What I Work With
+
+| Category | Technologies |
+|---|---|
+| **Languages** | `C#` `TypeScript` `Dart` `C++` `SQL` `HTML/CSS` |
+| **Frameworks** | `.NET Core` `Angular` `Flutter` `Unreal Engine 5` `Entity Framework` |
+
+---
+
+### 🔥 Currently Building
+
+| Project | Description |
+|---|---|
+| 📚 **LibroSphere** | Clean Architecture Library Platform |
+| 🎓 **EduConnect** | Real-time Education Platform |
+| 🎮 **UE5 Game** | Social Deduction Multiplayer Game |
+
+---
+
+### 🌱 Currently Learning
+
+| | |
+|---|---|
+| 📖 | Clean Architecture Patterns |
+| ⚡ | RxJS & Angular Material |
+| 🌐 | SignalR Real-time Communication |
+| 🎲 | UE5 Multiplayer Networking |
+
+---
+
+### 🎯 Quick Facts
+
+| | |
+|---|---|
+| 🎓 **Education** | Bachelor's in Software Engineering — University "Džemal Bijedić" of Mostar, FIT |
+| 💼 **Passion** | Clean Architecture, Cross-Platform Apps, Game Dev |
+| 📫 **Contact** | duskosavicbn3@gmail.com |
+| ⚡ **Fun Fact** | *I debug code faster than I find my keys!* 🔑 |
 
 <!-- Animated Divider -->
 <p align="center">
