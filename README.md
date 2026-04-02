@@ -38,7 +38,7 @@
 
 <!-- Avatar + slike -->
 <p align="center">
-  <img src="./avatar.png" width="35%" />
+ 
   &nbsp;&nbsp;&nbsp;
   <img src="./workspace.png" width="55%" />
 </p>
