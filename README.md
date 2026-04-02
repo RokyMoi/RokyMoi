@@ -7,9 +7,7 @@
 <!-- ║                              🌟 MAIN HEADER                                    ║ -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="./header_main.png" width="100%" />
-</p>
+
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
